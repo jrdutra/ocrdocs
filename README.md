@@ -1,1 +1,3 @@
-# ocrdocs
+# OcrDocs
+
+Its under MIT licence.
